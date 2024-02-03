@@ -8,6 +8,9 @@ environment:
 dependencies: 
   cupertino_icons: ^1.0.2
   get: 4.6.6
+  google_fonts: ^6.1.0
+  calendar_appbar: ^0.0.6
+  persistent_bottom_nav_bar_v2: 4.2.8
   flutter: 
     sdk: flutter
 
